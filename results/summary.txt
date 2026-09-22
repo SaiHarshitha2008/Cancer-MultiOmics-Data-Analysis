@@ -1,0 +1,9 @@
+EGFR survival analysis
+=====================
+
+Total patients: 500
+EGFR altered: 250
+EGFR unaltered: 250
+Log-rank p-value: 1
+Median survival, EGFR altered: 48.0
+Median survival, EGFR unaltered: 48.0
