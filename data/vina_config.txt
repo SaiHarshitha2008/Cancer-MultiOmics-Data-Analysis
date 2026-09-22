@@ -1,0 +1,14 @@
+receptor = data/1M17_receptor.pdbqt
+ligand = data/erlotinib_ligand.pdbqt
+
+# Center of the active tyrosine kinase pocket grid
+center_x = 22.014
+center_y = 0.258
+center_z = 51.986
+
+# Size of the docking box search area
+size_x = 22.5
+size_y = 22.5
+size_z = 22.5
+
+exhaustiveness = 8
