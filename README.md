@@ -59,11 +59,14 @@ https://www.cbioportal.org/study?id=luad_tcga_pan_can_atlas_2018
 
 cBioPortal provides programmatic access to its datasets through its REST API and also provides downloadable study files.
 
-Note
+---
+
+# Note
 
 The repository focuses on the computational survival-analysis part of the project. The numerical results should be generated again from the exported patient-level data before the repository is submitted.
 
-=======
+---
+
 # Integrated Computational Bioengineering for EGFR-Driven Lung Adenocarcinoma: Multi-Omics, Molecular Docking, and Synthetic Biosensor Design
 
 ## 1. Introduction
