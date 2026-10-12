@@ -1,5 +1,5 @@
 
-EGFR Survival Analysis in Lung Adenocarcinoma
+# EGFR Survival Analysis in Lung Adenocarcinoma
 
 This repository contains the code used for the EGFR survival analysis part of the lung adenocarcinoma project.
 
@@ -59,7 +59,7 @@ https://www.cbioportal.org/study?id=luad_tcga_pan_can_atlas_2018
 
 cBioPortal provides programmatic access to its datasets through its REST API and also provides downloadable study files.
 
-## Note
+Note
 
 The repository focuses on the computational survival-analysis part of the project. The numerical results should be generated again from the exported patient-level data before the repository is submitted.
 =======
