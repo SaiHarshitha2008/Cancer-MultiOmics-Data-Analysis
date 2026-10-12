@@ -1,5 +1,5 @@
 
-# EGFR Survival Analysis in Lung Adenocarcinoma
+EGFR Survival Analysis in Lung Adenocarcinoma
 
 This repository contains the code used for the EGFR survival analysis part of the lung adenocarcinoma project.
 
